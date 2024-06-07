@@ -1,3 +1,4 @@
+#! user/bin/env/node
 import chalk from "chalk";
 import inquirer from "inquirer";
 const randomNum = Math.floor(10000 + Math.random() * 99999);
