@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #! user/bin/env/node
+=======
+>>>>>>> 2d641750bd5ad27086d3ef0f1afb62c2216f649a
 import chalk from "chalk";
 import inquirer from "inquirer";
 const randomNum = Math.floor(10000 + Math.random() * 99999);

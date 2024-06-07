@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+<<<<<<< HEAD
   "bin": {
     "maaz_cli_student_management_system": "index.js"
   },
+=======
+>>>>>>> 2d641750bd5ad27086d3ef0f1afb62c2216f649a
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
